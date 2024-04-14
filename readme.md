@@ -2,7 +2,7 @@
   <h1 align="center">Hola, soy Nico 💜</h1>
 </div>
 
-![GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHl0ZHAxaDl5c2c0ZTZodzJpeWR3ZGU3MmN1b3p1M3BudHA4dTkydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C8n4WaFxK46UNDXh5p/giphy.gif)
+![GIF](https://i.giphy.com/U6A15bbb1QKg5vXacD.webp)
 
 ## Sobre mi
 
