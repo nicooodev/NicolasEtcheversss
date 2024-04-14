@@ -2,11 +2,13 @@
   <h1 align="center">Hola, soy Nico 💜</h1>
 </div>
 
-![GIF](https://i.giphy.com/U6A15bbb1QKg5vXacD.webp)
+<p align="center">
+  <img src="https://i.giphy.com/U6A15bbb1QKg5vXacD.webp" alt="GIF" width="300">
+</p>
 
-## Sobre mi
+## Sobre mí
 
-- Tenia otra cuenta pero la perdi xdn't 
+- Tenía otra cuenta pero la perdí xdn't 
 - 👨‍💻 Hacker ético
 - 🔐 Ofrezco asesoramiento para ciberseguridad (me han hackeado dos veces pero eso no lo contamos)
 - 📡 Actualmente voy en segundo año de Ingeniería en telecomunicaciones, conectividad y Redes.
