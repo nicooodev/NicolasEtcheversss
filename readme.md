@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://x.com/i/status/1824403821029622105" alt="GIF" width="300">
+  <img src="https://video.twimg.com/tweet_video/GVCBdAZbIAA-T7K.mp4" alt="GIF" width="300">
 </p>
 
 ## Sobre mí
